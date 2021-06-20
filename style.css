@@ -178,7 +178,7 @@ color: white;
 
     .logo-1 {
         width: 100px;
-        margin-left: 0.9rem;
+        margin-left: 1.3rem;
     }
 
     .btn-2 {
@@ -226,9 +226,9 @@ color: white;
 }
 
 .mockup-1 {
-    width: 10rem;
+    width: 12rem;
     margin-top: 3rem;
-    margin-left: 2rem;
+    margin-left: 5rem;
 }
 
 /*fig*/
@@ -296,6 +296,7 @@ color: white;
 
 .g-together, .conversations, .users {
     margin: 0;
+    margin-left: 3rem
     padding: 0;
     width: 10rem;
 }
